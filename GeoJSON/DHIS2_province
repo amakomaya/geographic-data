@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "organisationUnit": "Nepal",
+        "id": "CseDlDfCmVm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.05859375, 28.304380682962783],
+            [80.15625, 27.994401411046148],
+            [80.05859375, 28.304380682962783]
+          ]
+        ]
+      }
+    }
+  ]
+}
